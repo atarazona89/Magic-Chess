@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Interaccion\control.cs">
+    <Files>
+      <File FileName="Assets\Interaccion\control.cs" Line="55" Column="30" />
+      <File FileName="Assets\Interaccion\manejador.cs" Line="1" Column="1" />
+      <File FileName="Assets\recibirclick.cs" Line="21" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
